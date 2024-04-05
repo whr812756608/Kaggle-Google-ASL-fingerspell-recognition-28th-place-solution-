@@ -1,6 +1,6 @@
 # Kaggle-Google-ASL-fingerspell-recognition-28th-place-solution
 
--The link to the competitions [https://www.kaggle.com/competitions/asl-fingerspelling](https://www.kaggle.com/competitions/asl-fingerspelling)
+-The link to the competitions: [https://www.kaggle.com/competitions/asl-fingerspelling](https://www.kaggle.com/competitions/asl-fingerspelling)
 
 -The link to our team's origin post: https://www.kaggle.com/competitions/asl-fingerspelling/discussion/434896
 

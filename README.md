@@ -171,9 +171,9 @@ We decided to first pre-train our model on the supplemental dataset, then loaded
 
 ## Notebook:
  
--https://www.kaggle.com/code/wuhongrui/aslfr-gcs-path
--https://www.kaggle.com/wuhongrui/aslfr-training
--https://www.kaggle.com/wuhongrui/ctc-final-inference-notebook
+- https://www.kaggle.com/code/wuhongrui/aslfr-gcs-path
+- https://www.kaggle.com/wuhongrui/aslfr-training
+- https://www.kaggle.com/wuhongrui/ctc-final-inference-notebook
 
 Training notebook is written specific for training on Google Colab. Frist use gcs-path notebook check the path in training notebook. Set USE_SUPPLY = True first to train supply set, then set  USE_VAL = True to load pre-train weight and train main data set.
 

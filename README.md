@@ -4,6 +4,7 @@
 
 -The link to our team's origin post: https://www.kaggle.com/competitions/asl-fingerspelling/discussion/434896
 
+- Our solution notebook is designed for runing on Google Colab TPU. To run it with Kaggle TPU, refer to the instruction in the solution notebook.
 
 ## Acknowledgements
 
